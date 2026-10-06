@@ -82,4 +82,4 @@ rm -rf ~/.pr-watcher
 
 ## Licencia
 
-Pendiente de decidir. Si quieres que otras personas lo reutilicen, añade un fichero `LICENSE` (p. ej. MIT).
+[MIT](LICENSE)
